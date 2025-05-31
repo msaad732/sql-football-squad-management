@@ -18,26 +18,10 @@ This is my university semester project — a complete web-based Football Managem
 - **Database:** MySQL
 - **Core Logic:** SQL (multiple table relationships, JOINs, GROUP BY, aggregations)
 
-## 📁 Project Structure
-📂 sql-football-squad-management/
-├── index.html
-├── players.php
-├── coaches.php
-├── matches.php
-├── results.php
-├── stats.php
-├── teams.php
-├── standings.php
-├── db_connection.php
-└── style.css
-
-
 ## 🔗 How to Run
-
-1. Import the SQL database using the provided `.sql` file (if included).
-2. Place all files in `htdocs` (XAMPP) or your server’s root folder.
-3. Start MySQL and Apache in XAMPP.
-4. Run `localhost/index.html` in your browser.
+1. Place all files in `htdocs` (XAMPP) or your server’s root folder.
+2. Start MySQL and Apache in XAMPP.
+3. Run `localhost/index.html` in your browser.
 
 ## 💡 Skills Demonstrated
 
